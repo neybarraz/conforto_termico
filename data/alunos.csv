@@ -1,0 +1,6 @@
+nome,senha,grupo_id,grupo_nome,habilitado_problema,habilitado_investigacao,habilitado_solucao,habilitado_avaliacao,habilitado_recuperativa
+Ana Silva,11aa,G01,Lobos,1,1,1,1,1
+Bruno Costa,22bb,G01,Lobos,1,1,0,0,0
+Carla Lima,33cc,G02,Águias,1,1,1,1,0
+Diego Rocha,44dd,G02,Águias,1,1,0,0,0
+Eva Souza,55ee,G03,Onças,1,1,0,0,0
