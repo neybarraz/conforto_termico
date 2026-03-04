@@ -1,6 +1,14 @@
 nome,senha,grupo_id,grupo_nome,habilitado_problema,habilitado_investigacao,habilitado_solucao,habilitado_avaliacao,habilitado_recuperativa
-Ana Silva,11aa,G01,Lobos,1,1,1,1,1
-Bruno Costa,22bb,G01,Lobos,1,1,0,0,0
-Carla Lima,33cc,G02,Águias,1,1,1,1,0
-Diego Rocha,44dd,G02,Águias,1,1,0,0,0
-Eva Souza,55ee,G03,Onças,1,1,0,0,0
+Ney Barraz, fis01ney, G10, Jaguara,1,1,1,1,1 
+ANDERSON SCHMATZ DOS SANTOS,11529,G01,Lobos,1,0,0,0,0
+ARTHUR LONDERO TIZOTTI,03438,G01,Lobos,1,0,0,0,0
+CAROLINE LUBINI MÜLLER,04711,G01,Lobos,1,0,0,0,0
+DEISE KONZEN SCHMITT,07704,G01,Lobos,1,0,0,0,0
+GABRIEL DOS SANTOS MACHADO,03194,G01,Lobos,1,0,0,0,0
+JOÃO GABRIEL SEVERO PADILHA,10316,G01,Lobos,1,0,0,0,0
+JOAO VICTOR RAMBO RAMOS,08579,G01,Lobos,1,0,0,0,0
+LORENZO GRUTZMANN CRUZ,11636,G01,Lobos,1,0,0,0,0
+MARIA FERNANDA CATTELAN PEROTY,04687,G01,Lobos,1,0,0,0,0
+MATHEUS VOLKMER,04650,G01,Lobos,1,0,0,0,0
+MATIAS AMARANTE MACHADO,10209,G01,Lobos,1,0,0,0,0
+PEDRO ARTHUR DO CARMO AMARAL,04589,G01,Lobos,1,0,0,0,0
